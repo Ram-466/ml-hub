@@ -53,7 +53,7 @@ One repo per phase. Each holds `notes/` for concepts and `snippets/` for runnabl
 
 ## Roadmap progress
 
-Full detail: **[ml-roadmap](https://github.com/Ram-466/ml-roadmap)**
+Tracked in detail against a nine-phase plan, from setup through deployment.
 
 | Phase | Notes | Applied in a project |
 |---|---|---|
